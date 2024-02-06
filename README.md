@@ -5,6 +5,7 @@ Disclaimer
 Usage Policy: The RolenSec Network Privacy Toolkit is intended for use by licensed and certified field penetration testers or for educational purposes only. The creators of this toolkit (ROLENSEC) shall not be held responsible for any actions taken by end clients or users. Users are solely responsible for ensuring compliance with all applicable laws and regulations governing the use of this toolkit.
 Terms of Use: By using the RolenSec Network Privacy Toolkit, you agree to comply with all applicable laws and regulations. This toolkit is provided "as is," without any warranty of any kind, express or implied. The creators of this toolkit (ROLENSEC) disclaim any liability for damages resulting from the use of this toolkit.
 Educational Purposes ONLY: This toolkit is intended for educational purposes only. Users are encouraged to use this toolkit responsibly and ethically, respecting the privacy and security of others at all times.
+
 ┌══════════════════════════┐
 
 █⚠⚠⚠   Warning: Rolen's kit and the creator DO NOT ⚠⚠⚠█
