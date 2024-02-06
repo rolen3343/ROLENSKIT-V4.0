@@ -1,3 +1,4 @@
+********ROLENSKIT IS NOT FULLY BUILT AND WILL BE RELASED ON FED 22-2024********
 ![logo](https://github.com/rolen3343/ROLENSKIT-V4.0/assets/89835953/d64113b9-893d-4f24-abf6-6a9f31749566)
 # ROLENSKIT-V4.0
 Disclaimer
