@@ -38,7 +38,7 @@ As you can tell i have thrown all the tools scripts into one file,- (ROLENSKIT) 
 
 **1.) First, as sudo run-->** "sudo git clone https://github.com/rolen3343/ROLENSKIT_V4.0.git"
 
-**2.) Next, cd into rolenskit-->** "cd RoLENSKIT_V4.0"
+**2.) Next, cd into rolenskit-->** "cd ROLENSKIT_V4.0"
 
 **3.) Next, cd into the main folder-->** "cd ROLENSKIT"
 
