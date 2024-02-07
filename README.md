@@ -36,13 +36,13 @@ In Enterprise Mode, users can:**
 ------------------
 As you can tell i have thrown all the tools scripts into one file,- (ROLENSKIT) under - (ROLENSKIT_V4.0), The user has the choice to run it in the terminal, or place the main folder anywhere on the system.
 
-**1.) First, as sudo run**: "sudo git clone https://github.com/rolen3343/ROLENSKIT_V4.0.git"
+**1.) First, as sudo run-->** "sudo git clone https://github.com/rolen3343/ROLENSKIT_V4.0.git"
 
-**2.) Next, cd into rolenskit:** "cd RoLENSKIT_V4.0"
+**2.) Next, cd into rolenskit-->** "cd RoLENSKIT_V4.0"
 
-**3.) Next, cd into the main folder** "cd ROLENSKIT"
+**3.) Next, cd into the main folder-->** "cd ROLENSKIT"
 
-**4.) Finally once your in the "ROLENSKIT" dir, simply run** "python3 rolenskit.py
+**4.) Finally once your in the "ROLENSKIT" dir, simply run-->** "python3 rolenskit.py
 
 **Notes** On the first run instance, you may not be able to use the "EPmode.py" script, you will need to install the ROLENSKIT REQUIREMENTS by 
 running "python3 rolenskit.py" then selecting option '5', after this the toolkit should funtion normaly. 
