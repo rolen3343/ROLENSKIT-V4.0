@@ -16,16 +16,6 @@ reset_color = "\033[0m"
 #RUN ROLENSEC LOGO
 subprocess.run(["python3", "logo.py"])
 
-
-
-#print(f"{blue}This is blue text{reset_color}")
-#print(f"{orange}This is orange text{reset_color}")
-#print(f"{yellow}This is yellow text{reset_color}")
-#print(f"{purple}This is purple text{reset_color}")
-#print(f"{lime_green}This is lime green text{reset_color}")
-#print(f"{red_text}This is red text{reset_color}")
-
-
 os.system('cls' if os.name == 'nt' else 'clear')
 print(f"{lime_green} ✕ ══════════════════════════════════════════════════════════════════════✕ {reset_color}")
 time.sleep(.1)
@@ -34,9 +24,8 @@ time.sleep(.1)
 text_to_print = f"""{lime_green} █{blue}LOADING THE FUN STUFF:{lime_green}**************************************** {blue}DONE{purple}X   {lime_green}█
  {reset_color}"""
 
-
 for char in text_to_print:
-
+ 
     print(char, end='', flush=True)
     time.sleep(.01)
 time.sleep(0.2)
@@ -63,7 +52,7 @@ for char in text_to_print:
 
 time.sleep(0.2)
 #time test typing
-text_to_print = f"""{lime_green}█{blue}Verifying User Access KEY:{lime_green}Rolensec#adsmz038812192#$l&upt:{blue} ACCEPTED:{purple}X   {lime_green}█
+text_to_print = f"""{lime_green}█{blue}Verifying User Access KEY:{lime_green}Rolensec#*********************:{blue} ACCEPTED:{purple}X   {lime_green}█
  {reset_color}"""
 
 
