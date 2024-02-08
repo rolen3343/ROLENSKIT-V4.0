@@ -1,4 +1,6 @@
 import libtmux
+from colorama import Fore, Style
+import time
 
 # Create new tmux server
 server = libtmux.Server()
@@ -29,8 +31,23 @@ pane1.split_window()
 
 # Get the third pane (bottom right)
 pane2 = session.attached_window.panes[2]
-pane2.send_keys('****YOUR NETWORK CONFIGURATAION****')
-pane2.send_keys('ip a')
+
+# Send the text with ANSI escape codes for color formatting
+# Define the text with color formatting
+text = [
+    '****STARTING METASPLOIT****',
+
+    'msfconsole'
+]
+
+# Send each line
+for line in text:
+    pane2.send_keys(line)
+    pane2.send_keys("\n")  # Send a newline character
+    time.sleep(0.1)  # Sleep for a short interval to avoid flooding the terminal
+    'msfconsole'
+
+
 # Run command to switch to pane 0 in pane2
 pane2.send_keys('tmux select-pane -t 0')
 
