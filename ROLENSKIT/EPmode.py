@@ -6,7 +6,7 @@ import time
 server = libtmux.Server()
 
 # Create a new session named 'my_session'
-session = server.new_session(session_name='ROLENSKIT', kill_session=True)
+session = server.new_session(session_name='ROLENSKIT', kill_session=False)
 
 # Split the attached window horizontally into two halves
 session.attached_window.split_window(vertical=False)
