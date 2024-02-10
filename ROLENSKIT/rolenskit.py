@@ -433,6 +433,43 @@ Choice: {reset_color}""")
                 exit()
     else:
         print(f"{red_text}INVALID INPUT>>{reset_color}")
+
+        print(f"{red_text}⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿{yellow}⡏⠉⠛⢿{red_text}⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿{yellow}⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿{yellow}⣿⠀⠀⠀⠈⠛⢿{red_text}⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿{yellow}⠿⠛⠉⠁⠀⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿{yellow}⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸{red_text}⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣷{yellow}⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴{red_text}⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿⣿{yellow}⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴{red_text}⣿⣿⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿{yellow}⡟⠀⠀{white}⢰⣹⡆{yellow}⠀⠀⠀⠀⠀⠀{white}⣭⣷{yellow}⠀⠀⠀⠸{red_text}⣿⣿⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿{yellow}⠃⠀⠀{white}⠈⠉{yellow}⠀⠀⠤⠄⠀⠀⠀{white}⠉⠁{yellow}⠀⠀⠀⠀⢿{red_text}⣿⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿{yellow}⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸{red_text}⣿⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿⡀{yellow}⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿{red_text}⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⣿⣿⣿⣿⣿⣿⣿⣿{yellow}⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹{red_text}⣿⣿{reset_color}")
+        time.sleep(.02)
+        print(f"{red_text}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                              ⢸⣿⣿{reset_color}")
+        time.sleep(.02)
+        #SLOW PRINT.
+        text_to_print = f"{red_text}>>**********RESTARTING******>>{reset_color}"
+
+        for char in text_to_print:
+
+            print(char, end='', flush=True)
+            time.sleep(.01)
+
         time.sleep(1)
         os.system('cls' if os.name == 'nt' else 'clear')
         mainfunction()
