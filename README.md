@@ -38,7 +38,7 @@ In Enterprise Mode, users can:**
 ------------------
 As you can tell i have thrown all the tools scripts into one file,- (ROLENSKIT) under - (ROLENSKIT_V4.0), The user has the choice to run it in the terminal, or place the main folder anywhere on the system.
 
-**1.) First, as sudo run-->** "sudo git clone https://github.com/rolen3343/ROLENSKIT_V4.0.git"
+**1.) First, as sudo run-->** "sudo git clone https://github.com/rolen3343/ROLENSKIT-V4.0.git"
 
 **2.) Next, cd into rolenskit-->** "cd ROLENSKIT_V4.0"
 
