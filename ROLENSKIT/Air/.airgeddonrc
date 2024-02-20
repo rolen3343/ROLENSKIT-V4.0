@@ -14,7 +14,7 @@ AIRGEDDON_EXTENDED_COLORS=true
 AIRGEDDON_AUTO_CHANGE_LANGUAGE=true
 
 #Enabled true / Disabled false - Dependencies, root and bash version checks are done silently (it has no effect on development mode) - Default value false
-AIRGEDDON_SILENT_CHECKS=true
+AIRGEDDON_SILENT_CHECKS=false
 
 #Enabled true / Disabled false - Print help hints on menus - Default value true
 AIRGEDDON_PRINT_HINTS=true
