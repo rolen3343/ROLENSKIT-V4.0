@@ -1,7 +1,8 @@
 ********ROLENSKIT IS NOT FULLY BUILT ********
 # ROLENSKIT-V4.0
 
-![logo](https://github.com/rolen3343/ROLENSKIT-V4.0/assets/89835953/d64113b9-893d-4f24-abf6-6a9f31749566)
+![rolensec_logore](https://github.com/rolen3343/ROLENSKIT-V4.0/assets/89835953/89a9ee57-0794-4986-8328-ccc8baf4f730)
+
 
 ***Disclaimer
 Usage Policy:*** The RolenSec Network Privacy Toolkit is intended for use by licensed and certified field penetration testers or for educational purposes only. The creators of this toolkit (ROLENSEC) shall not be held responsible for any actions taken by end clients or users. Users are solely responsible for ensuring compliance with all applicable laws and regulations governing the use of this toolkit.
